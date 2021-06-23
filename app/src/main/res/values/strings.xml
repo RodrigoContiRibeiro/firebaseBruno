@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fireApp</string>
+    <string name="criar_m_sica">Criar Música</string>
+    <string name="nome_da_m_sica">Nome da Música</string>
+    <string name="nome_do_lbum">Nome do Álbum</string>
+    <string name="link_da_m_sica">Link da Música</string>
+    <string name="avalia_o_da_m_sica_1_a_5">Avaliação da Música (1 a 5)</string>
+    <string name="sua_nota_da_m_sica_0_5">Sua nota da música (0 à 5)</string>
+    <string name="nome_da_m_sica_a_ser_exclu_da">Nome da Música a ser Excluída</string>
+    <string name="id_da_m_sica_a_ser_exclu_da">ID da Música a ser Excluída</string>
+    <string name="deletar_essa_m_sica">Deletar essa música?</string>
+</resources>
